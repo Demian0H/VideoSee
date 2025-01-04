@@ -1,0 +1,9 @@
+body{
+    color:black;
+    background-color: aliceblue;
+    transition: all .3s ease;
+}
+.dark-mode{
+    color: aliceblue;
+    background-color: black;
+}
