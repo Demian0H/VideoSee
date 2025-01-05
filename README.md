@@ -1,5 +1,5 @@
-<h1>Video hosting service trying to replace YouTube [Archive]</h1>
-https://ieroglive2010.github.io/VideoSee/
+<h1>Видеохостинг старается стать лучше</h1>
 
-new version: http://pbankpixel.ru:8080
-<p><font face="Comic Sans MS"> Under construction</font></p>
+
+
+<p><font face="Comic Sans MS"></font></p>
